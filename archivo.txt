@@ -1,0 +1,2 @@
+Practicando el uso de git bash
+en donde creamos un proyecto el cual lo vamos a exponer en github
