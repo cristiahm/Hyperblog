@@ -1,4 +1,4 @@
 Practicando el uso de git bash
 en donde creamos un proyecto el cual lo vamos a exponer en github
 
-Hola soy Hernan y boy a colaborar en este proyecto
+Hola soy Hernan,el que  contribuye en este proyecto open source
