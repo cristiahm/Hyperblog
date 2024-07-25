@@ -13,7 +13,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 * Aprenderas buenas y malas prácticas
-* Aprenderas buenas y malas prácticas
 * La práctica hace al maestro
 * Las clases son geniales 
 
